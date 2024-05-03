@@ -1,5 +1,5 @@
 const FirebaseConfig = {
-  apiKey: 'AIzaSyAOWoRQGoegkmwnCca7B2GG5GUG_ZP1lcM',
+  apiKey: '',
   authDomain: 'emilus.firebaseapp.com',
   databaseURL: 'https://emilus.firebaseio.com',
   projectId: 'emilus',
