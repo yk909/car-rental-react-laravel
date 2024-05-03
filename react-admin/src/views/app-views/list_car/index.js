@@ -547,5 +547,5 @@ function ListCar({ google, locations = [] }) {
     )
 };
 export default GoogleApiWrapper({
-    apiKey: 'AIzaSyA2vMx4B8g6zWCf3xYUxC40xePaunWQ6Tc'
+    apiKey: ''
 })(ListCar);
